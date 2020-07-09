@@ -2,6 +2,6 @@
   
 <div class="row" style="margin-top: 30%;">
 <div class="col-xs-12" style="text-align: center;">
-<img src="loading.gif"/>      
+<img src="https://github.com/itsalb3rt/itsalb3rt/raw/master/loading.gif?sanitize=true"/>      
 </div>
 </div>
