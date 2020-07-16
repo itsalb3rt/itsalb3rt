@@ -3,6 +3,6 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://github.com/itsalb3rt?tab=followers"><img src="https://img.shields.io/github/followers/itsalb3rt.svg?style=social&label=Follow&maxAge=2592000"></a>
+<a href="https://github.com/itsalb3rt?tab=followers"><img src="https://img.shields.io/github/followers/itsalb3rt.svg?style=social&label=Follow"></a>
 <a href="https://github.com/itsalb3rt"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 </div>
