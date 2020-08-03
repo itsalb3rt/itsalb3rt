@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://github.com/itsalb3rt/itsalb3rt/raw/master/loading.gif?sanitize=true" width="260" height="200"/>      
-</div>
+| <img src="https://github-readme-stats.vercel.app/api?username=itsalb3rt&show_icons=true&theme=vue" alt="itsalb3rt" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalb3rt&layout=compact&theme=vue" alt="itsalb3rt" />	|
+|---	                                                                                                                  |---	                                                   
 <br/>
 <div align="center">
 <a href="https://github.com/itsalb3rt?tab=followers"><img src="https://img.shields.io/github/followers/itsalb3rt.svg?style=social&label=Follow&maxAge=z"></a>
