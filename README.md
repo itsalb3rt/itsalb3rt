@@ -1,4 +1,4 @@
-| <img src="https://github-readme-stats.vercel.app/api?username=itsalb3rt&show_icons=true&theme=vue" alt="itsalb3rt" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalb3rt&layout=compact&theme=vue" alt="itsalb3rt" />	|
+| <img src="https://github-readme-stats.vercel.app/api?username=itsalb3rt&show_icons=true&theme=vue&include_all_commits=true" alt="itsalb3rt" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalb3rt&layout=compact&theme=vue" alt="itsalb3rt" />	|
 |---	                                                                                                                  |---	                                                   
 <br/>
 <div align="center">
