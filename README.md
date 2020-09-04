@@ -1,3 +1,9 @@
+<p align="center">
+  Albert is a <b>Frontend</b> and <b>Backend</b> developer with experience in the website and web application creation industry. He Specialize in <b>JavaScript</b> and have professional experience working with <b>PHP, Node JS, Docker, React</b> and <b>VUE</b>. He also have experience working with relational and spatial databases. 
+</p>
+<hr>
+</br>
+
 | <img src="https://github-readme-stats.vercel.app/api?username=itsalb3rt&show_icons=true&theme=vue&include_all_commits=true" alt="itsalb3rt" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalb3rt&layout=compact&theme=vue" alt="itsalb3rt" />	|
 |---	                                                                                                                  |---	                                                   
 <br/>
