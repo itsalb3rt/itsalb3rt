@@ -4,7 +4,7 @@
 <hr>
 </br>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=itsalb3rt&show_icons=true&theme=vue&include_all_commits=true&bg_color=DEG,000000,434343&text_color=fff" alt="itsalb3rt" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalb3rt&layout=compact&theme=vue&langs_count=10&hide=java,c%2b%2b,html,tsql,shell&bg_color=DEG,434343,000000&text_color=fff" alt="itsalb3rt" />	|
+| <img src="https://github-readme-stats.vercel.app/api?username=itsalb3rt&show_icons=true&theme=vue&include_all_commits=true&bg_color=DEG,0D1117,434343&text_color=fff" alt="itsalb3rt" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalb3rt&layout=compact&theme=vue&langs_count=10&hide=java,c%2b%2b,html,tsql,shell&bg_color=DEG,434343,0D1117&text_color=fff" alt="itsalb3rt" />	|
 |---	                                                                                                                  |---	                                                   
 <br/>
 <div align="center">
