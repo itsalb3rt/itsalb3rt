@@ -12,6 +12,6 @@
 <a href="https://github.com/itsalb3rt"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/itsalb3rt"><img src="https://komarev.com/ghpvc/?username=itsalb3rt" alt="itsalb3rt"/></a>
 
-[![StackOverflow Reputation: 2.5K](https://img.shields.io/badge/StackOverflow-2.5K-F27F33?logo=stackoverflow)](https://es.stackoverflow.com/users/39181/albert-hidalgo?tab=profile)
+[![StackOverflow Reputation: 2.6K](https://img.shields.io/badge/StackOverflow-2.6K-F27F33?logo=stackoverflow)](https://es.stackoverflow.com/users/39181/albert-hidalgo?tab=profile)
 [![Last updated: less 10 minutes](https://img.shields.io/badge/last%20updated-less%20than%2010%20minutes-green)](https://github.com/itsalb3rt)
 </div>
