@@ -15,3 +15,12 @@
 [![StackOverflow Reputation: 2.6K](https://img.shields.io/badge/StackOverflow-2.6K-40A478?logo=stackoverflow)](https://es.stackoverflow.com/users/39181/albert-hidalgo?tab=profile)
 [![Last updated: less 10 minutes](https://img.shields.io/badge/last%20updated-less%20than%2010%20minutes-40A478)](https://github.com/itsalb3rt)
 </div>
+
+---
+
+<h3>Special Sponsors</h3>
+
+<a href="https://github.com/psanders">
+<img alt="pedro-sanders" src="https://avatars.githubusercontent.com/u/539774?v=4" style="border-radius: 50%; width: 40px" /></a>
+
+---
