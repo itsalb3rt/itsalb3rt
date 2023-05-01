@@ -13,10 +13,3 @@
 </div>
 
 ---
-
-<h3>Special Sponsors</h3>
-
-<a href="https://github.com/psanders">
-<img alt="pedro-sanders" src="https://avatars.githubusercontent.com/u/539774?v=4" style="border-radius: 50%; width: 40px" /></a>
-
----
