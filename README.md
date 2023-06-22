@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
 
-[![StackOverflow Reputation: 2.6K](https://img.shields.io/badge/StackOverflow-2.7K-40A478?logo=stackoverflow)](https://es.stackoverflow.com/users/39181/albert-hidalgo?tab=profile)
+[![StackOverflow Reputation: 2.8K](https://img.shields.io/badge/StackOverflow-2.7K-40A478?logo=stackoverflow)](https://es.stackoverflow.com/users/39181/albert-hidalgo?tab=profile)
 </div>
 
 ---
