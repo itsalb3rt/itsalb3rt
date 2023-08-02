@@ -1,5 +1,5 @@
 <p align="center">
-  Albert is a <b>Software</b> developer with experience in the website and web application creation industry. He Specialize in <b>JavaScript</b> and have professional experience working with <b>PHP, Node JS, Docker, React</b>, <b>VUE</b> and <b>Quasar Framework</b>. He also have experience working with relational and spatial databases. 
+  Albert is a <b>Software</b> developer with experience with web technologies. He Specializes in <b>JavaScript</b> and has professional experience working with <b>PHP, Go, Node JS, Docker, React, NextJS</b>, <b>VUE</b>, and <b>Quasar Framework</b>. He also has experience working with relational and spatial databases. 
 </p>
 <hr>
 </br>
